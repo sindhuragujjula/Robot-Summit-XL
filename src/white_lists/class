@@ -1,0 +1,12 @@
+## Allowed USB classes
+Human Interface Device
+Hub
+Audio
+Video
+Audio/Video Devices
+
+## Allowed PCI classes
+Video Device
+Audio Device
+Keyboard Controller
+Mouse Controller
